@@ -1,2 +1,6 @@
 # latam-frd-risk-rules-flow-orchestrator-fn
-fraud-and-risk / critical / latam
+
+Team: **fraud-and-risk**  
+Tier: **critical**  
+Region: **latam**  
+Synthetic demo repo for the Domo governance platform.
